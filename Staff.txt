@@ -1,0 +1,48 @@
+1
+John Watson
+221B Baker Street,London, UK
+07777 232344
+14
+5
+1991
+Detective
+B
+5000
+60000
+500
+2
+David Slaughter
+Farnborough, Hampshire, UK
+07821 237277
+12
+9
+1993
+Programmer
+F
+10000
+80000
+780
+3
+Remi Choon
+Tokyo, Japan
+223 442 21
+1
+7
+1985
+Accountant
+C
+30000
+180000
+4250
+4
+Jackie Chan
+North Korea
+666 777 33
+15
+6
+1975
+Karate
+D
+250
+8000
+250

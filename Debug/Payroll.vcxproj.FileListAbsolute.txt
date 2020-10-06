@@ -1,0 +1,4 @@
+C:\Users\opoll\source\repos\Payroll\Debug\Payroll.exe
+C:\Users\opoll\source\repos\Payroll\Debug\Payroll.pdb
+D:\Programming\Src\CPP\Payroll\Debug\Payroll.exe
+D:\Programming\Src\CPP\Payroll\Debug\Payroll.pdb
