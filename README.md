@@ -1,0 +1,2 @@
+# Payroll-System---Console-Application
+Add, manage, view, employee data and their payslips for the year, calculating tax and editing hours worked
